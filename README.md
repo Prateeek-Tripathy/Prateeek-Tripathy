@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prateek Tripathy</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Developer</h3>
 
-<!--
-**Prateeek-Tripathy/Prateeek-Tripathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Django+Learner;Future+Software+Engineer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 3rd Year B.Tech Computer Science student  
+- 💻 Currently learning **Django & Full Stack Development**  
+- 🧠 Exploring **real-world problem solving through projects**  
+ 
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,django,mysql,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prateek-Tripathy&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateek-Tripathy&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: prateektripathy321@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/prateek-tripathy-83a17b2ba/
