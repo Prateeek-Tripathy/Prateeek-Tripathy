@@ -13,18 +13,15 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student  
-- 💻 Full Stack Developer (Learning & Building)  
-- 🚀 Focused on building projects that solves some real world problem 
-  
+- 💻 Aspiring Full Stack Developer  
+- 🚀 Building projects that **solve real-world problems**   
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,python,react,nextjs,nodejs,django,mysql,mongodb,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,python,react,django,mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
@@ -32,8 +29,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prateeek-Tripathy&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeek-Tripathy&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -41,14 +38,18 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Prateeek-Tripathy&theme=tokyonight&hide_border=true" />
 </p>
+
+
+
+---
 
 ## 📈 Current Focus
 
 - 📌 Data Structures & Algorithms  
-- 📌 Full Stack Projects  
-- 📌 System Design Basics  
+- 📌 Full Stack Development (Next.js + Django)  
+- 📌 System Design Fundamentals  
 
 ---
 
@@ -58,7 +59,7 @@
   <a href="https://linkedin.com/in/your-link">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:prateektripathy321@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -68,7 +69,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Prateeek-Tripathy&color=blue&style=flat-square" />
 </p>
 
 ---
